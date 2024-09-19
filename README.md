@@ -1,7 +1,7 @@
 # Data-Science-Projects
 These are side projects that (usually) have nothing to do with physics
 
-...So far...
+So far...
 
 1) approval_ratings predicts presidential approval ratings from socio-economic indicators. Lots of data wrangling here because I scrapped data from so many different sources
 
